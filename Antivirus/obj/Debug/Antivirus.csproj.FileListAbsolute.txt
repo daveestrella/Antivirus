@@ -1,0 +1,6 @@
+c:\users\xboxp\documents\visual studio 2017\Projects\Antivirus\Antivirus\bin\Debug\Antivirus.exe.config
+c:\users\xboxp\documents\visual studio 2017\Projects\Antivirus\Antivirus\bin\Debug\Antivirus.exe
+c:\users\xboxp\documents\visual studio 2017\Projects\Antivirus\Antivirus\bin\Debug\Antivirus.pdb
+c:\users\xboxp\documents\visual studio 2017\Projects\Antivirus\Antivirus\obj\Debug\Antivirus.csprojResolveAssemblyReference.cache
+c:\users\xboxp\documents\visual studio 2017\Projects\Antivirus\Antivirus\obj\Debug\Antivirus.exe
+c:\users\xboxp\documents\visual studio 2017\Projects\Antivirus\Antivirus\obj\Debug\Antivirus.pdb
